@@ -50,3 +50,31 @@ For each proposition, score or narratively document: temporal distance between e
 ## Research integrity
 
 The original texts are primary ancient sources, even when accessed through a modern translation or hosting service. The translation is identified, and unresolved text-critical questions remain explicit. All source confidence labels refer to verification of the referenced text, not to the truth of its extraordinary claims.
+
+
+## Research increment v0.2: directly inspected passages (2026-10-08)
+
+**RES-03 VERIFIED, HIGH source-text confidence.** Galatians 1:18–19: Paul says he visited Cephas in Jerusalem and stayed fifteen days, and also saw James, the Lord's brother. This establishes Paul's *claim of personal contact* with two named leaders. It does not establish that Paul interviewed either about appearances, nor that James personally testified to Paul about his own experience. Ancient primary text accessed via ESV modern translation: https://www.biblegateway.com/passage/?search=Galatians+1%3A18-19&version=ESV
+
+**RES-05 VERIFIED, HIGH source-text confidence.** Tacitus, *Annals* 15.44, reports that Christus suffered the extreme penalty under Pontius Pilate in Tiberius's reign and describes the presence and persecution of Christians at Rome under Nero. This is a later Roman historical report, not an eyewitness deposition about the execution, and supplies no independent testimony of resurrection. Ancient Latin primary text and critical commentary: https://dcc.dickinson.edu/tacitus-annals/15-44 ; translation https://www.livius.org/sources/content/tacitus/tacitus-on-the-christians/
+
+**CMP-02 VERIFIED, HIGH source-text confidence.** Plutarch, *Caesar* 65–67, narrates Caesar's murder in the Senate, conspirators, stabbing, and political aftermath. The narrative is later than the event, so its historical value must be combined with contemporary Roman evidence rather than treated as firsthand testimony. Ancient primary text in translation: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar%2A.html
+
+**CMP-03 PROVISIONAL, MEDIUM verification.** Cicero, correspondence to Atticus, references the Ides of March and its political aftermath, giving a contemporary participant's perspective. The located online English rendition is explicitly marked AI-assisted, so it is **not accepted as a verified translation** pending examination of an established critical Latin edition/translation. Discovery only: https://romanletters.org/letters/cicero_atticus/363/
+
+### Provisional parity matrix (qualitative, no probability estimates)
+
+| Proposition | Direct early participant testimony | Independent nonaligned corroboration | Reported extraordinary mechanism | Current assessment |
+|---|---|---|---|---|
+| Jesus was executed under Pilate | Early Christian testimony | Tacitus later reports execution | No | Strong multi-stream historical grounding; test Tacitus's information pathway |
+| Paul proclaimed an encounter with risen Jesus | Yes, Paul's own letters | Not established for objective encounter | Yes | High confidence in *Paul's proclamation*, objective event unresolved |
+| Paul knew Cephas and James | Yes, Galatians | Independent corroboration of specific meeting not established | No | First-person report of personal acquaintance |
+| Jesus bodily rose | Paul reports resurrection proclamation and appearances | No independent non-Christian verification identified here | Yes | Central explanatory proposition remains contested |
+| Caesar was assassinated | Contemporary Cicero correspondence identified, critical edition pending | Later Plutarch plus additional streams to assess | No | Historically accepted; complete primary-source corroboration matrix still pending |
+| Romulus appeared after disappearance | Later literary report | Contemporary eyewitness deposition unavailable | Yes | Historical attestation of *tradition*, not verified event |
+
+**Key methodological observation:** Equal evidentiary standards require comparison of matched propositions. The confidence that a person *claimed* an extraordinary encounter is not interchangeable with confidence that the extraordinary event occurred. This distinction applies to Christian and non-Christian claims alike.
+
+### Next research increment
+
+Retrieve Cicero from a non-AI-assisted critical edition, map dependencies among Pauline formula, Pauline autobiographical testimony, Synoptics and John, and add a second extraordinary-event comparator. Only then assess any claim of exceptional documentary proximity or source independence.
